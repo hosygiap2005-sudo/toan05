@@ -1,3 +1,3 @@
 # toan05
 
-https://github.com/dieptoan-sudo/giap06/blob/main/README.md
+https://github.com/hosygiap2005-sudo/giap06/blob/main/README.md
